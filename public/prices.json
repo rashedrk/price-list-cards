@@ -1,0 +1,34 @@
+[
+{
+    "id": 1,
+    "type": "Basic",
+    "price": "$25/month",
+    "features": [
+    "Access to cardio equipment",
+    "Free weights",
+    "Locker rooms"
+    ]
+},
+{
+    "id": 2,
+    "type": "Standard",
+    "price": "$45/month",
+    "features": [
+    "Access to all equipment",
+    "Group fitness classes",
+    "Personal training available"
+    ]
+},
+{
+    "id": 3,
+    "type": "Premium",
+    "price": "$75/month",
+    "features": [
+    "Access to all equipment",
+    "Group fitness classes",
+    "Personal training included",
+    "Towel service",
+    "Sauna and steam room"
+    ]
+}
+]
